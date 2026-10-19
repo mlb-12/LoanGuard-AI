@@ -1,0 +1,6 @@
+{
+  "model": "XGBoost",
+  "threshold": 0.15,
+  "selection_metric": "F1-score",
+  "selection_method": "Highest F1-score among the tested validation thresholds"
+}
