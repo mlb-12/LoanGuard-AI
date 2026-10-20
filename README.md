@@ -110,7 +110,7 @@ Place the CSVs directly inside `data/`, not inside an extra nested folder. For e
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/mlb-12/LoanGuard-AIL>
+git clone https://github.com/mlb-12/LoanGuard-AI
 cd LoanGuard-AI
 ```
 ### 2. Create and activate a virtual environment (recommended)
