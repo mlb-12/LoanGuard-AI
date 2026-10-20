@@ -19,9 +19,6 @@ The application uses a trained classification model and provides SHAP and LIME e
 
 **Live demo:** [Home Credit Default Risk Assessment](https://loan-guard---ai-ekl4mpd5rq6vjvmgtkhvxm.streamlit.app/)
 
-The public application link will be added after deployment. Until then, follow the instructions in **Run Locally** to launch the application on your computer.
-
-
 ## Technology Stack
 
 - Python
@@ -113,12 +110,9 @@ Place the CSVs directly inside `data/`, not inside an extra nested folder. For e
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/mlb-12/LoanGuard-AIL>
 cd LoanGuard-AI
 ```
-
-Replace `<YOUR_GITHUB_REPOSITORY_URL>` with the URL of your Git repository.
-
 ### 2. Create and activate a virtual environment (recommended)
 
 **Windows:**
